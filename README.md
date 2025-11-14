@@ -50,7 +50,7 @@
 
 2. **Compile the Project**
 
-    Go to the `BMI/` directory and run the following command
+    Go to the `BMI-Project/` directory and run the following command
 
     ```bash
     mvn clean package
@@ -58,7 +58,7 @@
 
 3. **Run the Project**
 
-    Go to the `BMI/` directory and run the following command
+    Go to the `BMI-Project/` directory and run the following command
 
     ```bash
     java -jar target/bmi-1.0.jar
